@@ -1,4 +1,4 @@
-# YOU MUST NOT BE REMOVED
+# 1st attempt
 
 dev_mount sdcard /storage/sdcard0 14 /devices/sdi4/mmc_host/mmc1/mmc1
 
